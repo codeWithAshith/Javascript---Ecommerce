@@ -1,0 +1,12 @@
+Admin login
+-----------
+email - admin@admin.com
+password - admin@admin.com
+
+User login
+----------
+email - ashith@user.com
+password - ashith
+
+- Js Ecommerce application with local storage
+- Also has protected route
